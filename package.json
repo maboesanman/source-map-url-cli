@@ -1,0 +1,23 @@
+{
+  "name": "source-map-url-cli",
+  "version": "0.1.0",
+  "description": "cli interface for source-map-url",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maboesanman/source-map-url-cli.git"
+  },
+  "author": "Mason Boeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maboesanman/source-map-url-cli/issues"
+  },
+  "homepage": "https://github.com/maboesanman/source-map-url-cli#readme",
+  "dependencies": {
+    "source-map-url": "^0.4.0",
+    "yargs": "^15.3.1"
+  }
+}
